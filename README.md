@@ -16,7 +16,7 @@ SingleLinkedList has methods:
 ```sh
 def print_linked_list(self):
     # If empty linked list is given, return ""
-    # else: Traversing the given LL and print values till we reach the end
+    # else: Traversing the given LL and print values till we reach the end of the Linked list
 ```
 - insert_at_end
 

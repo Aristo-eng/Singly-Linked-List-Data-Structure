@@ -31,8 +31,6 @@ class SingleLinkedList:
     
 
 
-
-
 if __name__ == '__main__': 
     # Start with an empty list
     list_s = SingleLinkedList()
