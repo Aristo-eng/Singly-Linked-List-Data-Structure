@@ -4,3 +4,6 @@ Python implementation of various functions in a linked list class. Understand ab
 # what is a Linked List
 Linked List is defined as a data structure wherein the elements are not stored at contiguous memory locations and are linked using pointers.
 
+## Features
+- Define class Node
+- Define class SingleLinkedList
